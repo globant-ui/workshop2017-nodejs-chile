@@ -1,0 +1,29 @@
+[{
+  "url" : "http://a5.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE5NDg0MDU0ODI0MTkxNTAz.jpg",
+  "birthdate": "1962-11-01T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Anthony",
+  "lastName": "Kiedis",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://assets.rollingstone.com/assets/images/story/q-a-flea-talks-the-chili-peppers-30th-birthday-and-his-50th-20120202/101513-flea-2-600-1381864295.jpg",
+  "birthdate": "1962-10-16T00:00:00-0300",
+  "instrument": "bass",
+  "firstName": "Michael 'Flea'",
+  "lastName": "Balzary",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://data.whicdn.com/images/64191630/large.jpg",
+  "firstName": "Josh",
+  "lastName": "Klinghoffer",
+  "docType" : "ARTIST",
+  "birthdate": "1979-10-03T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "http://cdn-x.drummerworld.com/pics/drum30/chadsmith66.jpg",
+  "firstName": "Chad",
+  "lastName": "Smith",
+  "docType" : "ARTIST",
+  "birthdate": "1961-10-25T00:00:00-0300",
+  "instrument": "drums"
+}]

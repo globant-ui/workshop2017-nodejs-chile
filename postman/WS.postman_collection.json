@@ -1,0 +1,579 @@
+{
+	"id": "a0ae4158-72db-bf57-db90-5039af3cc897",
+	"name": "WS",
+	"description": "",
+	"order": [
+		"d3d47906-0dbb-e3f6-9e9a-decbdd5d7b7b",
+		"0da57f8a-7213-8b36-0fdd-c4df1d87557f",
+		"e2c93e65-b19b-51d1-1977-6c6ac74acb9e",
+		"0a54bb08-07f2-1936-0bcb-d14cffbb70de",
+		"1a5e0341-cb4a-0e22-7d39-7780ebe4cd7c",
+		"ee7b5fd7-345c-3358-59f2-dc7a9879033b",
+		"3cc840f1-226d-0e5b-8731-100babbc9897",
+		"2874fb8f-3dc3-b997-cc3b-2978588b6802",
+		"a51ec23a-8c4a-ef1b-edce-656debe8155b",
+		"8195d0cf-fdce-a9b7-c8bf-f2cdb834c349",
+		"6a8e6825-1f0b-aa68-75d2-eed7b011ef6a",
+		"d46b21a2-35ad-fb30-34f8-4377eaf4a4e5",
+		"86c52ced-4377-730c-9f77-6ed990023a10",
+		"103665ad-de7f-1f87-f1d2-9c9b9495b62e",
+		"c5d597e7-925c-73bc-ec27-c66d3eb84382"
+	],
+	"folders": [],
+	"timestamp": 1479086725364,
+	"owner": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "0a54bb08-07f2-1936-0bcb-d14cffbb70de",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/artists",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479087079125,
+			"name": "Artists",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "0da57f8a-7213-8b36-0fdd-c4df1d87557f",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/albums/{{albumId}}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "\n",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479089696594,
+			"name": "Album by ID",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "103665ad-de7f-1f87-f1d2-9c9b9495b62e",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/comments/BftxkuizwrFlQOjv",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479266634122,
+			"name": "Comments by ID",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "1a5e0341-cb4a-0e22-7d39-7780ebe4cd7c",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/artists/{{artistId}}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479087132093,
+			"name": "Artist by ID",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "2874fb8f-3dc3-b997-cc3b-2978588b6802",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/bands/{{bandId}}/albums",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479266510359,
+			"name": "Band by ID with albums",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "3cc840f1-226d-0e5b-8731-100babbc9897",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/bands/{{bandId}}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479266491051,
+			"name": "Band by ID",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "6a8e6825-1f0b-aa68-75d2-eed7b011ef6a",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/tracks/{{trackId}}",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479087542449,
+			"name": "Tracks by ID",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "8195d0cf-fdce-a9b7-c8bf-f2cdb834c349",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/tracks",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479087486122,
+			"name": "Tracks",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "86c52ced-4377-730c-9f77-6ed990023a10",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/comments",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "POST",
+			"data": [
+				{
+					"key": "message",
+					"value": "this is a message from postman",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "{{trackId}}",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479089786490,
+			"name": "Comment POST",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "a51ec23a-8c4a-ef1b-edce-656debe8155b",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/bands/{{bandId}}/artists",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479266525802,
+			"name": "Band by ID with artists",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "c5d597e7-925c-73bc-ec27-c66d3eb84382",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/comments/BftxkuizwrFlQOjv",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "DELETE",
+			"data": [],
+			"dataMode": "params",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479266639585,
+			"name": "Comments delete by ID",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "d3d47906-0dbb-e3f6-9e9a-decbdd5d7b7b",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/albums",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479089692010,
+			"name": "Albums",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "d46b21a2-35ad-fb30-34f8-4377eaf4a4e5",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/tracks/{{trackId}}/comments",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479087574761,
+			"name": "Tracks by ID with comments",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "e2c93e65-b19b-51d1-1977-6c6ac74acb9e",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/albums/{{albumId}}/tracks",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": null,
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479087008771,
+			"name": "Album by ID with tracks",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		},
+		{
+			"id": "ee7b5fd7-345c-3358-59f2-dc7a9879033b",
+			"headers": "Content-Type: application/x-www-form-urlencoded\n",
+			"url": "http://{{server}}/bands",
+			"preRequestScript": null,
+			"pathVariables": {},
+			"method": "GET",
+			"data": [
+				{
+					"key": "message",
+					"value": "aaa",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "name",
+					"value": "pepe",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "trackId",
+					"value": "026IoJ1INfTLDKY8",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "urlencoded",
+			"version": 2,
+			"tests": "var jsonData = JSON.parse(responseBody);\ntests[\"Your test name\"] = jsonData[0].docType === \"BAND\";",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1479172131246,
+			"name": "Bands",
+			"description": "",
+			"collectionId": "a0ae4158-72db-bf57-db90-5039af3cc897",
+			"responses": []
+		}
+	]
+}

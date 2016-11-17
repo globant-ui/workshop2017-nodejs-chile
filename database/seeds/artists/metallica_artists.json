@@ -1,0 +1,29 @@
+[{
+  "url" : "https://i.scdn.co/image/7363350720f890939156192d4dee6bb5877c0cc4",
+  "birthdate": "1963-12-26T00:00:00-0300",
+  "instrument": "drums",
+  "firstName": "Lars",
+  "lastName": "Ulrich",
+  "docType" : "ARTIST"
+},{
+  "url" : "https://i.scdn.co/image/c7c8c0ce06bf761aefdb43d36d1c2f86de51a728",
+  "birthdate": "1963-08-03T00:00:00-0300",
+  "instrument": "voice - guitar",
+  "firstName": "James",
+  "lastName": "Hetfield",
+  "docType" : "ARTIST"
+}, {
+  "url" : "https://i.scdn.co/image/04151ab94c67250094da72217758aec6e464c639",
+  "firstName": "Kirk",
+  "lastName": "Hammett",
+  "docType" : "ARTIST",
+  "birthdate": "1962-11-18T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "https://i.scdn.co/image/a171cadf89145d2e5b1941eb6ec8570700b9b0ea",
+  "firstName": "Robert",
+  "lastName": "Trujillo",
+  "docType" : "ARTIST",
+  "birthdate": "1964-10-23T00:00:00-0300",
+  "instrument": "bass"
+}]

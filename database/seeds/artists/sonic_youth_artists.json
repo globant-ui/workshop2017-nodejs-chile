@@ -1,0 +1,29 @@
+[{
+  "url" : "http://s3.amazonaws.com/media.wbur.org/wordpress/18/files/2015/04/picGordondirty-era_photo-by-tony-mott.jpg",
+  "birthdate": "1953-04-28T00:00:00-0300",
+  "instrument": "bass",
+  "firstName": "Kim",
+  "lastName": "Gordon",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://static.spin.com/files/140213-Thurston-Moore-heavenmetal-video.jpg",
+  "birthdate": "1958-07-25T00:00:00-0300",
+  "instrument": "voice - guitar",
+  "firstName": "Thurston",
+  "lastName": "Moore",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://www.billboard.com/files/styles/article_main_image/public/media/lee-ranaldo-sonic-youth-2007-billboard-650.jpg",
+  "firstName": "Lee",
+  "lastName": "Ranaldo",
+  "docType" : "ARTIST",
+  "birthdate": "1956-02-03T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "http://www.radiopanik.org/media/cache/42/ee/42eebe06357375d14765c7b73638402c.jpg",
+  "firstName": "Steve",
+  "lastName": "Shelley",
+  "docType" : "ARTIST",
+  "birthdate": "1962-06-23T00:00:00-0300",
+  "instrument": "guitar"
+}]

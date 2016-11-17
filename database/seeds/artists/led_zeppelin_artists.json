@@ -1,0 +1,29 @@
+[{
+  "url" : "https://s-media-cache-ak0.pinimg.com/originals/09/fa/7f/09fa7f265ec74ad24372b12d079f0d9e.jpg",
+  "birthdate": "1944-01-09T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Jimmy",
+  "lastName": "Page",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://static.tumblr.com/6741800edc5bac8e1649df8b2901420d/a38zs7m/019mx47u2/tumblr_static_robert_plant02.jpg",
+  "birthdate": "1948-08-20T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Robert",
+  "lastName": "Plant",
+  "docType" : "ARTIST"
+}, {
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/John_Bonham_1975.jpg/220px-John_Bonham_1975.jpg",
+  "firstName": "John",
+  "lastName": "Bonham",
+  "docType" : "ARTIST",
+  "birthdate": "1948-05-31T00:00:00-0300",
+  "instrument": "drums"
+}, {
+  "url" : "http://65.media.tumblr.com/c7e6905f9b3d21ae96f09b382f985795/tumblr_n03atbh8y11rij3jho2_400.jpg",
+  "firstName": "John Paul",
+  "lastName": "Jones",
+  "docType" : "ARTIST",
+  "birthdate": "1946-01-03T00:00:00-0300",
+  "instrument": "bass"
+}]

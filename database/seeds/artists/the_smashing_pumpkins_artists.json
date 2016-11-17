@@ -1,0 +1,22 @@
+[{
+  "url": "http://cdn4.pitchfork.com/news/62741/5f01093b.jpg",
+  "firstName": "Billy",
+  "lastName": "Corgan",
+  "birthdate": "1967-03-17T00:00:00-0300",
+  "instrument": "voice",
+  "docType": "ARTIST"
+},{
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Jimmy_Chamberlin_Headshot.jpg/220px-Jimmy_Chamberlin_Headshot.jpg",
+  "firstName": "Jimmy",
+  "lastName": "Chamberlin",
+  "birthdate": "1964-06-10T00:00:00-0300",
+  "instrument": "drums",
+  "docType": "ARTIST"
+},{
+  "url": "http://www.aceshowbiz.com/images/wennpic/jeff-schroeder-premiere-the-smurfs-2-01.jpg",
+  "firstName": "Jeff",
+  "lastName": "Schroeder",
+  "birthdate": "1974-02-04T00:00:00-0300",
+  "instrument": "guitar",
+  "docType": "ARTIST"
+}]

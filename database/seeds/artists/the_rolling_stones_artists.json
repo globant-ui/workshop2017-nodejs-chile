@@ -1,0 +1,29 @@
+[{
+  "url": "https://pbs.twimg.com/media/CoSb7U4XYAA8TaG.jpg",
+  "firstName": "Mick",
+  "lastName": "Jagger",
+  "birthdate": "1943-07-26T00:00:00-0300",
+  "instrument": "voice",
+  "docType": "ARTIST"
+},{
+  "url": "http://www.mojo4music.com/media/2015/07/Keef_mojocover-770.jpg",
+  "firstName": "Keith",
+  "lastName": "Richards",
+  "birthdate": "1943-12-18T00:00:00-0300",
+  "instrument": "guitar",
+  "docType": "ARTIST"
+},{
+  "url": "http://cdn.images.express.co.uk/img/dynamic/79/590x/secondary/175492.jpg",
+  "firstName": "Ronnie",
+  "lastName": "Wood",
+  "birthdate": "1947-06-01T00:00:00-0300",
+  "instrument": "guitar",
+  "docType": "ARTIST"
+},{
+  "url": "http://www.rosebudus.com/watts/navi/top.jpg",
+  "firstName": "Charlie",
+  "lastName": "Watts",
+  "birthdate": "1941-06-02T00:00:00-0300",
+  "instrument": "drums",
+  "docType": "ARTIST"
+}]

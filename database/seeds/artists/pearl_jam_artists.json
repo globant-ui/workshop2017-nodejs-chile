@@ -1,0 +1,36 @@
+[{
+  "url" : "http://a3.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTE4MDAzNDEwNzcyNTI2NjA2.jpg",
+  "birthdate": "1964-12-23T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Eddie",
+  "lastName": "Vedder",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://www.twofeetthick.com/wp-content/uploads/2010/10/LeAnnSanDiego06-148-768x1024.jpg",
+  "birthdate": "1966-04-05T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Mike",
+  "lastName": "McCready",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://www.uofmusic.com/wp-content/uploads/2016/07/stone-gossard-640-80.jpg",
+  "firstName": "Jeff",
+  "lastName": "Gossard",
+  "docType" : "ARTIST",
+  "birthdate": "1966-07-20T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jeff-Ament.jpg/220px-Jeff-Ament.jpg",
+  "firstName": "Jeff",
+  "lastName": "Ament",
+  "docType" : "ARTIST",
+  "birthdate": "1963-03-10T00:00:00-0300",
+  "instrument": "bass"
+}, {
+  "url" : "https://consequenceofsound.files.wordpress.com/2011/01/matt-cameron-corbis-530-85.jpg",
+  "firstName": "Matt",
+  "lastName": "Cameron",
+  "docType" : "ARTIST",
+  "birthdate": "1962-11-28T00:00:00-0300",
+  "instrument": "drums"
+}]

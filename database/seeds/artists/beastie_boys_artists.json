@@ -1,0 +1,22 @@
+[{
+  "url" : "http://thesuperslice.com/wp-content/uploads/2012/05/yauch-620x768.jpg",
+  "birthdate": "1964-08-05T00:00:00-0300",
+  "instrument": "bass",
+  "firstName": "Adam",
+  "lastName": "Yauch",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://a4.files.biography.com/image/upload/c_fill,cs_srgb,dpr_1.0,g_face,h_300,q_80,w_300/MTIwNjA4NjM0MTI1Mzg3Mjc2.jpg",
+  "birthdate": "1965-11-20T00:00:00-0300",
+  "instrument": "drums",
+  "firstName": "Michael 'Mike-d'",
+  "lastName": "Diamond",
+  "docType" : "ARTIST"
+}, {
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Loz_horo.png/250px-Loz_horo.png",
+  "birthdate": "1966-10-31T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Adam 'Ad-Rock'",
+  "lastName": "Keefe Horovitz",
+  "docType" : "ARTIST"
+}]

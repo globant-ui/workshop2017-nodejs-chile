@@ -1,0 +1,11 @@
+{
+  "ignore": [
+    "node_modules/**"
+  ],
+  "execMap": {
+    "js": "node node_modules/babel-cli/bin/babel-node.js"
+  },
+  "watch": [
+    "./"
+  ]
+}

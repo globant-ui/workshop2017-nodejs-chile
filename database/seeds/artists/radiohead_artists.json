@@ -1,0 +1,29 @@
+[{
+  "url" : "https://a1-images.myspacecdn.com/images03/32/af5788cabd3346e1baeb9e875e460876/300x300.jpg",
+  "birthdate": "1968-10-07T00:00:00-0300",
+  "instrument": "voice - guitar",
+  "firstName": "Thom",
+  "lastName": "Yorke",
+  "docType" : "ARTIST"
+},{
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Radiohead_2008_Barcelona,_Catalonia_Daydream_Festival.jpg/250px-Radiohead_2008_Barcelona,_Catalonia_Daydream_Festival.jpg",
+  "birthdate": "1971-11-05T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Jonny",
+  "lastName": "Greenwood",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://65.media.tumblr.com/tumblr_m9cs2oiRci1qa1wxx.jpg",
+  "firstName": "Colin",
+  "lastName": "Greenwood",
+  "docType" : "ARTIST",
+  "birthdate": "1969-06-26T00:00:00-0300",
+  "instrument": "bass"
+}, {
+  "url" : "https://citizeninsane.eu/media/phil_0.jpg",
+  "firstName": "Philip",
+  "lastName": "Selway",
+  "docType" : "ARTIST",
+  "birthdate": "1967-03-23T00:00:00-0300",
+  "instrument": "drums"
+}]

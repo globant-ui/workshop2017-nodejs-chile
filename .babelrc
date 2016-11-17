@@ -1,0 +1,6 @@
+{
+  "presets": ["latest"],
+  "ignore": [
+    "node_modules/**/*.js"
+  ]
+}

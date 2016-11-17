@@ -1,0 +1,29 @@
+[{
+  "url" : "https://lh4.googleusercontent.com/-Cgnqt5z6Xw0/AAAAAAAAAAI/AAAAAAAAAbY/yUOrcq_xidI/s0-c-k-no-ns/photo.jpg",
+  "birthdate": "1948-12-03T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Ozzy",
+  "lastName": "Osbourne",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://i3.mirror.co.uk/incoming/article5745883.ece/ALTERNATES/s615b/Tony-Lommi.jpg",
+  "birthdate": "1948-02-19T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Tony",
+  "lastName": "Iommi",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://www.diario24horas.com.br/imgs/artigos/2014/2015-01-29-geezer-butler.jpg",
+  "firstName": "Geezer",
+  "lastName": "Buttler",
+  "docType" : "ARTIST",
+  "birthdate": "1949-07-17T00:00:00-0300",
+  "instrument": "bass"
+}, {
+  "url" : "http://www.chadleephotography.com/wp-content/gallery/rob-zombieblack-sabbath-drummer-tommy-clufetos/tommy-clufettos-chicago-2006-4848.JPG",
+  "firstName": "Tommy",
+  "lastName": "Cufletos",
+  "docType" : "ARTIST",
+  "birthdate": "1979-12-30T00:00:00-0300",
+  "instrument": "drums"
+}]

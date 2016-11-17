@@ -1,0 +1,29 @@
+[{
+  "url" : "https://i38.servimg.com/u/f38/18/77/13/72/jk10.jpg",
+  "birthdate": "1969-12-30T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Jay",
+  "lastName": "Kay",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://www.aguilaramp.com/gfx/FeaturedArtist_PaulTurner_main.jpg",
+  "birthdate": "1968-13-11T00:00:00-0300",
+  "instrument": "bass",
+  "firstName": "Paul",
+  "lastName": "Turner",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://www.derrick-mckenzie.com/css/images/jampics/IMG_1027.JPG",
+  "firstName": "Derrick",
+  "lastName": "McKenzie",
+  "docType" : "ARTIST",
+  "birthdate": "1964-03-27T00:00:00-0300",
+  "instrument": "drums"
+}, {
+  "url" : "http://www.alloutguitar.com/sites/default/files/robh_interview_04.jpg",
+  "firstName": "Rob",
+  "lastName": "Harris",
+  "docType" : "ARTIST",
+  "birthdate": "1971-08-27T00:00:00-0300",
+  "instrument": "guitar"
+}]

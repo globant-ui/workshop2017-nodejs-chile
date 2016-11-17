@@ -1,0 +1,29 @@
+[{
+  "url" : "https://lh6.googleusercontent.com/-1HHBJzk4csQ/AAAAAAAAAAI/AAAAAAAABB0/t1ylK338WOg/photo.jpg",
+  "birthdate": "1959-03-29T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Perry",
+  "lastName": "Farrel",
+  "docType" : "ARTIST"
+},{
+  "url" : "https://pbs.twimg.com/profile_images/688366831783006208/0IBCN-Rr_400x400.jpg",
+  "birthdate": "1969-06-07T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Dave",
+  "lastName": "Navarro",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://cdn.mos.musicradar.com/images/artist-news/janes-addiction/stephen-perkins-janes-opener-corbis-460-100-90-75.jpg",
+  "firstName": "Stephen",
+  "lastName": "Perkins",
+  "docType" : "ARTIST",
+  "birthdate": "1967-09-13T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "https://static1.squarespace.com/static/54481c8fe4b0a9431d5d27fe/t/565f73a1e4b0a69070fcd276/1449096098293/",
+  "firstName": "Chris",
+  "lastName": "Chaney",
+  "docType" : "ARTIST",
+  "birthdate": "1970-06-14T00:00:00-0300",
+  "instrument": "bass"
+}]

@@ -1,0 +1,36 @@
+[{
+  "url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NzY4NzgxNV5BMl5BanBnXkFtZTcwMzcyOTQwOQ@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+  "birthdate": "1969-01-14T00:00:00-0300",
+  "instrument": "voice - guitar",
+  "firstName": "Dave",
+  "lastName": "Grohl",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://www.bottlerocknapavalley.com/wp-content/uploads/2016/04/tumblr_nmcjm6DbJr1s93nk0o2_1280.jpg",
+  "birthdate": "1972-02-17T00:00:00-0300",
+  "instrument": "drums",
+  "firstName": "Taylor",
+  "lastName": "Hawkins",
+  "docType" : "ARTIST"
+}, {
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Patsmear.jpg/220px-Patsmear.jpg",
+  "firstName": "Pat",
+  "lastName": "Smear",
+  "docType" : "ARTIST",
+  "birthdate": "1959-08-05T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "http://musicplayers.com/blog/wp-content/uploads/2011/05/ChrisShiflett.jpg",
+  "firstName": "Chris",
+  "lastName": "Shiflett",
+  "docType" : "ARTIST",
+  "birthdate": "1971-05-06T00:00:00-0300",
+  "instrument": "guitar"
+}, {
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nate_Mendel_2009.jpg/170px-Nate_Mendel_2009.jpg",
+  "firstName": "Nate",
+  "lastName": "Mendel",
+  "docType" : "ARTIST",
+  "birthdate": "1968-12-02T00:00:00-0300",
+  "instrument": "bass"
+}]

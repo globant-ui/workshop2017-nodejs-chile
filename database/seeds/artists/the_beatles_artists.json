@@ -1,0 +1,29 @@
+[{
+  "url": "https://i.scdn.co/image/96e2e59a1bf0b90cce97035ca48ad017cb9937c9",
+  "firstName": "Paul",
+  "lastName": "McCartney",
+  "birthdate": "1942-06-18T00:00:00-0300",
+  "instrument": "bass",
+  "docType": "ARTIST"
+},{
+  "url": "https://i.scdn.co/image/47e00040660be1a06ce84821fcbe3fb68c658e1a",
+  "firstName": "John",
+  "lastName": "Lennon",
+  "birthdate": "1940-10-09T00:00:00-0300",
+  "instrument": "voice",
+  "docType": "ARTIST"
+},{
+  "url": "https://i.scdn.co/image/33028dadc690dd2ceb3a01762a13e594f8e9d937",
+  "firstName": "Ringo",
+  "lastName": "Starr",
+  "birthdate": "1940-07-07T00:00:00-0300",
+  "instrument": "drums",
+  "docType": "ARTIST"
+},{
+  "url": "https://i.scdn.co/image/4d9990ce9e262cd5c0bfb1aef5ee4380d3f3dc66",
+  "firstName": "George",
+  "lastName": "Harrison",
+  "birthdate": "1943-02-25T00:00:00-0300",
+  "instrument": "guitar",
+  "docType": "ARTIST"
+}]

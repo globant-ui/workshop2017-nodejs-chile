@@ -1,0 +1,22 @@
+[{
+  "url" : "http://a4.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE5NTU2MzE2NDI5MTI1MTMx.jpg",
+  "birthdate": "1967-02-20T00:00:00-0300",
+  "instrument": "voice - guitar",
+  "firstName": "Kurt",
+  "lastName": "Cobain",
+  "docType" : "ARTIST"
+},{
+  "url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5NzY4NzgxNV5BMl5BanBnXkFtZTcwMzcyOTQwOQ@@._V1_UY317_CR4,0,214,317_AL_.jpg",
+  "birthdate": "1969-01-14T00:00:00-0300",
+  "instrument": "drums",
+  "firstName": "Dave",
+  "lastName": "Grohl",
+  "docType" : "ARTIST"
+}, {
+  "url" : "https://s-media-cache-ak0.pinimg.com/236x/9d/b0/0f/9db00f7744ecedf160ed6431062152ed.jpg",
+  "firstName": "Krist",
+  "lastName": "Novoselic",
+  "docType" : "ARTIST",
+  "birthdate": "1942-06-18T00:00:00-0300",
+  "instrument": "bass"
+}]

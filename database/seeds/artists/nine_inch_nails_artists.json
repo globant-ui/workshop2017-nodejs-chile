@@ -1,0 +1,22 @@
+[{
+  "url" : "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkzNDc1MTg5M15BMl5BanBnXkFtZTcwMzk0ODY1NA@@._V1_UY317_CR11,0,214,317_AL_.jpg",
+  "birthdate": "1965-05-17T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "Trent",
+  "lastName": "Reznor",
+  "docType" : "ARTIST"
+},{
+  "url" : "https://cdn.ustatik.com/_img/news/other/finck.jpg",
+  "birthdate": "1971-11-07T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Robin",
+  "lastName": "Finck",
+  "docType" : "ARTIST"
+}, {
+  "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Justin_Meldal-Johnsen_Santa_Barbara,_California,_2009.jpg/220px-Justin_Meldal-Johnsen_Santa_Barbara,_California,_2009.jpg",
+  "firstName": "Justin",
+  "lastName": "Meldal-Johnsen",
+  "docType" : "ARTIST",
+  "birthdate": "1942-06-18T00:00:00-0300",
+  "instrument": "bass"
+}]

@@ -1,0 +1,22 @@
+[{
+  "url" : "http://blurtonline.com/wp-content/uploads/2015/01/Clinton.jpg",
+  "birthdate": "1941-07-22T00:00:00-0300",
+  "instrument": "voice",
+  "firstName": "George",
+  "lastName": "Clinton",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://images1.mtv.com/uri/mgid:uma:video:mtv.com:865500?width=657&height=370&crop=true&quality=0.85",
+  "birthdate": "1951-10-26T00:00:00-0300",
+  "instrument": "bass",
+  "firstName": "Bootsy",
+  "lastName": "Collins",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://41.media.tumblr.com/ff9ad5a57dd2a6ce8badd706fcdf5bdc/tumblr_n741qpjd3j1ss467co1_500.png",
+  "firstName": "Eddie",
+  "lastName": "Hazel",
+  "docType" : "ARTIST",
+  "birthdate": "1950-04-10T00:00:00-0300",
+  "instrument": "guitar"
+}]

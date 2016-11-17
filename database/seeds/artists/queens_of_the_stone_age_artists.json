@@ -1,0 +1,29 @@
+[{
+  "url" : "http://tmhome.com/wp-content/uploads/2014/01/Josh-Homme-near-death-meditation-w2.jpg",
+  "birthdate": "1973-05-17T00:00:00-0300",
+  "instrument": "voice - guitar",
+  "firstName": "Josh",
+  "lastName": "Homme",
+  "docType" : "ARTIST"
+},{
+  "url" : "http://www.premierguitar.com/ext/resources/images/content/2103_08/Videos/Rig-Rundowns/QOTSA/TVL_live_FEAT.jpg?1377712547",
+  "birthdate": "1970-01-05T00:00:00-0300",
+  "instrument": "guitar",
+  "firstName": "Troy",
+  "lastName": "Van Leeuwen",
+  "docType" : "ARTIST"
+}, {
+  "url" : "http://cdn-x.drummerworld.com/drummerworld/jontheodore550.jpg",
+  "firstName": "Jon",
+  "lastName": "Theodore",
+  "docType" : "ARTIST",
+  "birthdate": "1973-12-30T00:00:00-0300",
+  "instrument": "drums"
+}, {
+  "url" : "https://s-media-cache-ak0.pinimg.com/originals/b9/a7/16/b9a716d03231c0a410057551ddedc8b0.jpg",
+  "firstName": "Michael",
+  "lastName": "Shuman",
+  "docType" : "ARTIST",
+  "birthdate": "1985-08-20T00:00:00-0300",
+  "instrument": "bass"
+}]

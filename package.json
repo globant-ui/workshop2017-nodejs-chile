@@ -1,0 +1,68 @@
+{
+  "name": "globant-workshop-2016-api",
+  "version": "2.0.0",
+  "description": "An API developed using express.js. For training purposes",
+  "main": "index.js",
+  "scripts": {
+    "dbseed": "node node_modules/babel-cli/bin/babel-node.js scripts/dbseed.js",
+    "dbdrop": "node node_modules/babel-cli/bin/babel-node.js scripts/dbdrop.js",
+    "spotify-fetcher": "node scripts/spotify-fetcher.js",
+    "start": "node node_modules/nodemon/bin/nodemon.js ./server.js",
+    "test": "node node_modules/nodemon/bin/nodemon.js ./test.js",
+    "tdd": "node node_modules/nodemon/bin/nodemon.js ./tdd.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/globant-ui/workshop2016-nodeconfar-express.git"
+  },
+  "keywords": [
+    "API",
+    "express.js"
+  ],
+  "author": {
+    "name": "Matias Bogado",
+    "email": "matias.bogado@globant.com",
+    "url": "https://ar.linkedin.com/in/matías-bogado-71108652"
+  },
+  "contributors": [
+    {
+      "name": "Matias Bogado",
+      "email": "matias.bogado@globant.com",
+      "url": "https://ar.linkedin.com/in/matías-bogado-71108652"
+    },
+    {
+      "name": "Bruno Trigueiro",
+      "email": "bruno.trigueiro@globant.com",
+      "url": "https://www.linkedin.com/in/btrigueiro"
+    },
+    {
+      "name": "Cristian Bietti",
+      "email": "cristian.bietti@globant.com",
+      "url": "https://www.linkedin.com/in/crystian"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/globant-ui/workshop2016-nodeconfar-express/issues"
+  },
+  "homepage": "https://github.com/globant-ui/workshop2016-nodeconfar-express#readme",
+  "dependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "colors": "^1.1.2",
+    "express": "^4.14.0",
+    "lodash": "^4.16.6",
+    "morgan": "^1.7.0",
+    "nedb": "^1.8.0",
+    "node-fetch": "^1.6.3",
+    "nodemon": "^1.11.0",
+    "to-snake-case": "^1.0.0"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-fail-fast": "^2.0.0",
+    "spotify-web-api-node": "^2.3.6"
+  }
+}
