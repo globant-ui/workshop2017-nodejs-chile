@@ -1,5 +1,5 @@
 {
-  "name": "globant-workshop-2016-api",
+  "name": "globant-workshop-2017-api",
   "version": "2.0.0",
   "description": "An API developed using express.js. For training purposes",
   "main": "index.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/globant-ui/workshop2016-nodeconfar-express.git"
+    "url": "git+https://github.com/globant-ui/workshop2017-nodejs-chile.git"
   },
   "keywords": [
     "API",
@@ -39,6 +39,31 @@
       "name": "Cristian Bietti",
       "email": "cristian.bietti@globant.com",
       "url": "https://www.linkedin.com/in/crystian"
+    },
+    {
+      "name": "Marlon Alfonzo",
+      "email": "marlon.nava@globant.com",
+      "url": "https://www.linkedin.com/in/marlon-alfonzo-nava/"
+    },
+    {
+      "name": "Alejandro Bustos Nuñez",
+      "email": "alejandro.bustos@globant.com",
+      "url": "https://www.linkedin.com/in/alejandrobustosn/"
+    },
+    {
+      "name": "Ivan Olivares",
+      "email": "ivan.olivares@globant.com",
+      "url": "https://www.linkedin.com/in/ivolivares/"
+    },
+    {
+      "name": "Gonzalo Pincheira Arancibia",
+      "email": "gonzalo.pincheira@globant.com",
+      "url": "https://www.linkedin.com/in/gonzalo-ignacio-pincheira-arancibia-a130bb43/"
+    },
+    {
+      "name": "Cristian Osorio Iribarren",
+      "email": "cristian.osorio@globant.com",
+      "url": "https://www.linkedin.com/in/cristianosorioiribarren/"
     }
   ],
   "license": "MIT",
